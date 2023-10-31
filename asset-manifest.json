@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Todo-react-app-1/static/css/main.0a77dc18.css",
+    "main.js": "/Todo-react-app-1/static/js/main.5989dc7a.js",
+    "static/js/787.d2dfa606.chunk.js": "/Todo-react-app-1/static/js/787.d2dfa606.chunk.js",
+    "static/media/bg-desktop-light.jpg": "/Todo-react-app-1/static/media/bg-desktop-light.3508d620efd5a52bb4ce.jpg",
+    "static/media/bg-desktop-dark.jpg": "/Todo-react-app-1/static/media/bg-desktop-dark.73e47dbb723ebc772ef0.jpg",
+    "index.html": "/Todo-react-app-1/index.html",
+    "static/media/icon-sun.svg": "/Todo-react-app-1/static/media/icon-sun.910b1f9a23741afc341e95653a51f14f.svg",
+    "static/media/icon-moon.svg": "/Todo-react-app-1/static/media/icon-moon.6c03114b495d05f4380b3c544d9afe2a.svg",
+    "static/media/icon-check.svg": "/Todo-react-app-1/static/media/icon-check.a8fb15d0278c8e312df5.svg",
+    "main.0a77dc18.css.map": "/Todo-react-app-1/static/css/main.0a77dc18.css.map",
+    "main.5989dc7a.js.map": "/Todo-react-app-1/static/js/main.5989dc7a.js.map",
+    "787.d2dfa606.chunk.js.map": "/Todo-react-app-1/static/js/787.d2dfa606.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a77dc18.css",
+    "static/js/main.5989dc7a.js"
+  ]
+}
